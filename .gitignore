@@ -3,4 +3,6 @@ mlartifacts/
 mlruns/
 __pycache__/
 *.pyc
+.pytest_cache/
 .venv/
+*.log
